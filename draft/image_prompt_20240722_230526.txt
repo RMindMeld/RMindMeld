@@ -1,0 +1,1 @@
+Create an image of the Fibonacci spiral using the golden ratio. The spiral should be overlaid on a natural scene, such as a nautilus shell or the spiral arrangement of seeds in a sunflower. Use vibrant colors and incorporate mathematical symbols or formulas related to the Fibonacci sequence subtly in the background.

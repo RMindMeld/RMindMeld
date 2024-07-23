@@ -61,4 +61,6 @@ Quarto is a multi-language, next-generation version of R Markdown from RStudio, 
   otherwise, just use "```python"
 
 ## Other
- Only produce the blog entry, no commentary before nor after  
+- Only produce the blog entry, no commentary before nor after  
+- If refering to pictures in the metadata, provide a prompt to create said picture, or a link to an actual picture
+
